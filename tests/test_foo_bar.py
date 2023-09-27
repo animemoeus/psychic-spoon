@@ -3,7 +3,7 @@ import unittest
 from .utils import is_prime
 
 
-def foo_bar() -> None:
+def foo_bar():
     for i in range(1, 100 + 1)[::-1]:
         if is_prime(i):
             continue
@@ -19,7 +19,7 @@ def foo_bar() -> None:
 
 
 class TestFooBar(unittest.TestCase):
-    def test_foo_bar(self) -> None:
+    def test_foo_bar(self):
         self.assertEqual(is_prime(1), False)
         self.assertEqual(is_prime(2), True)
         self.assertEqual(is_prime(10), False)
