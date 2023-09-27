@@ -4,7 +4,7 @@
 
 ### Foo Bar
 
-[![image](https://github.com/animemoeus/psychic-spoon/assets/33395829/b0cb762f-aed7-4587-8efa-7ec61b82e4bb)](https://github.com/animemoeus/psychic-spoon/blob/main/README.md?plain=1)
+![image](https://github.com/animemoeus/psychic-spoon/assets/33395829/1ff1ecd0-4077-4170-880b-11efc57b851f)
 
 ### Jakarta Weather
 
