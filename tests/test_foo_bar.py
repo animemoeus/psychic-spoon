@@ -25,4 +25,4 @@ class TestFooBar(unittest.TestCase):
         self.assertEqual(is_prime(10), False)
         self.assertEqual(is_prime(11), True)
 
-        print(foo_bar())
+        foo_bar()
